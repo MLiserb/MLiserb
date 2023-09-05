@@ -1,14 +1,9 @@
 - 👋 Hi, I’m @MLiserb
 - 👀 I’m interested in Security Protocol.
-- 🔭 I'm currently working on what's next.
+- 🔭 I'm currently working on ... I don't even know...
 - 📫 How to reach me: datamarc@proton.me
 - 🏠 Where I'm at home: I'm based in Singapore, a little country in Asia.
-- 🌱 I'm currently learning not to go insane
-
-🎯 Skills
-⌨️ Programming languages
-JavaScript Python Solidity TypeScript
-
+- 🌱 I'm currently learning C# for fun !
 
   
 <!---
