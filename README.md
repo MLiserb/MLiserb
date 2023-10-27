@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @demystifi on substack
+- 👋 Hi, I’m [@demystifi](https://substack.com/@demystifi/)
 - 👀 I’m interested in Security Protocol.
 - 🔭 I'm currently working on ... I don't even know...
 - 📫 How to reach me: datamarc@proton.me
