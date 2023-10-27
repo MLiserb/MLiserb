@@ -1,9 +1,9 @@
 - 👋 Hi, I’m [@demystifi](https://substack.com/@demystifi/)
 - 👀 I’m interested in Security Protocol.
-- 🔭 I'm currently working on ... I don't even know...
+- 🔭 I'm currently working on Web3 Statistic.
 - 📫 How to reach me: datamarc@proton.me
 - 🏠 Where I'm at home: I'm based in Taiwan, a little country in Asia.
-- 🌱 I'm currently learning C# for fun !
+- 🌱 I'm currently learning C# with Freecodecamp & Microsoft !
 
   
 <!---
