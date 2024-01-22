@@ -3,6 +3,7 @@
 - 🔭 I'm currently working on Web3 Data.
 - 📫 How to reach me: datamarc@proton.me
 - 🏠 Where I'm at home: I'm based in Taiwan, a little country in Asia.
+- 🇫🇷 Currently, I'm writing a daily newsletter [blocknote](https://blocknote.substack.com/)
 - 🌱 I'm currently learning C# with Freecodecamp & Microsoft !
 
   
