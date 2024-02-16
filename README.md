@@ -1,4 +1,4 @@
-- 👋 Hi, I’m [@demystifi](https://substack.com/@demystifi/)
+- 👋 Hi, I’m [@demystifi](https://substack.com/@demystifi/) & [Marc](https://blocknote.substack.com/)
 - 👀 I’m interested in Security Protocol.
 - 🔭 I'm currently working on Web3 Data.
 - 📫 How to reach me: datamarc@proton.me
