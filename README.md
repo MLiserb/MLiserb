@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@demystifi](https://substack.com/@demystifi/) **[EN]** & [@blocknote](https://blocknote.substack.com/) **[FR]**,
-- 👀 I’m interested in CyberSec so I'm doing [IBM and ISC2 Cybersecurity Specialist Professional Certificate](https://www.coursera.org/professional-certificates/ibm-isc2-cybersecurity-specialist) [FEB 2024],
+- 👀 I have done the [IBM and ISC2 Cybersecurity Specialist Professional Certificate](https://www.coursera.org/professional-certificates/ibm-isc2-cybersecurity-specialist) [APR 2024],
 - 🔭 I'm currently a **Blockchain Live Data Analyst**,
 - 📫 How to reach me: datamarc@proton.me,
 - 🏠 Where I'm at home: I'm based in Taiwan, a little country in Asia,
