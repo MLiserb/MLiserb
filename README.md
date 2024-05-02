@@ -5,7 +5,7 @@
 - 🏠 Where I'm at home: I'm based in Taiwan, a little country in Asia,
 - 🇫🇷 Currently, I'm writing a daily newsletter on substack [blocknote](https://blocknote.substack.com/),
 - 🌱 I'm currently learning C# with Freecodecamp & Microsoft !
-- 📚 I'm continuous learning with anlaysis tools such as DuneSQL|Subgraph (for example: new python library)|etc... (update and new feathure)
+- 📚 I'm continuous learning with anlaysis tools such as DuneSQL|Subgraph (for example: new python library)|etc...
 
   
 <!---
