@@ -1,5 +1,5 @@
 - 👋 Hi, I’m [@demystifi](https://substack.com/@demystifi/) **[EN]** & [@blocknote](https://blocknote.substack.com/) **[FR]**,
-- 👀 I have done the [IBM and ISC2 Cybersecurity Specialist Professional Certificate](https://www.coursera.org/professional-certificates/ibm-isc2-cybersecurity-specialist) [APR 2024],
+- 👀 I have done the [IBM and ISC2 Cybersecurity Specialist Professional Certificate],
 - 🔭 I'm currently a **Blockchain Live Data Analyst**,
 - 🇫🇷 Currently, I'm working on complex SQL database,
 - 🌱 I'm currently learning C# with Freecodecamp & Microsoft !
